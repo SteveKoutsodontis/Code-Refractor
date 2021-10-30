@@ -20,10 +20,5 @@ This Broswer application allows users to allows business to use a search engine 
 ## Known Bugs
 
 * _Search Engine Optimization was broken. It was fixed.
+* _Cleaned and Properly Labeled the CSS File.
 
-
-
-
-
-
-On line 34 had to add a div and id class in order for the Search Engine Optimization link to work. 
